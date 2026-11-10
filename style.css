@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #f0f0f0;
+}
+
+
+main {
+    background-color: #f0f0f0;
+    text-align: center;
+    background-image: url("img2/Moblie/Fundo.png");
+    height: 80vh;
+    padding: 100px 30px;
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+
+h1 {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    padding: 64px 0 16px 0;
+    font-size: 32px;
+}
+
+
+.descricao {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    padding: 0 0 56px 0;
+    font-size: 16px;
+}
+
+
+button{
+    padding: 13px 73px;
+    color: #fff;
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    border: none;
+    font-size: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-bottom: 24px;
+}
+
+
+.btn-ios{
+    background-color: #26BBA4;
+    box-shadow: 0 3px 0 0 #1e8f7e;
+}
+.btn-ios:hover{
+    background-color: #156458;
+    box-shadow: 0 3px 0 0 #156458;
+}
+
+
+.btn-mac{
+    background-color: #6174FF;
+    box-shadow: 0 3px 0 0 #424fb3;
+}
+.btn-mac:hover{
+    background-color: #323b85;
+    box-shadow: 0 3px 0 0 #323b85;
+}
+
+@media (min-width:1300px) {
+    .text-preset1{
+        font-size: 32;
+        line-height: 125%;
+        letter-spacing: -0.5%;
+        font-weight: 600;
+    }
+    
+}
+
+.Tamanho1{
+   padding: 158px 0 0 0;
+}
+
+h2{
+    margin-bottom: 16px;
+     font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    padding: 64px 0 16px 0;
+    font-size: 32px;
+}
+
+p{
+    margin-bottom: 56px;
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    padding: 0 0 56px 0;
+    font-size: 16px;
+}
+
+img{
+    margin-bottom: 56px;
+}
+
+
+.Tamanho2{
+    padding: 140px 0 0 0;
+}
+
+
+.Tamanho3{
+    padding: 140px 0 0 0;
+}
+
+
+
+
+
